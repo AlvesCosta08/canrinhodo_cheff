@@ -1,0 +1,151 @@
+[11-Nov-2024 15:25:19 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/moniel43/delivery.monielsistemas.com.br/sistema/painel/paginas/pagar/salvar.php:33
+Stack trace:
+#0 /home2/moniel43/delivery.monielsistemas.com.br/sistema/painel/paginas/pagar/salvar.php(33): number_format('qq', 2, ',', '.')
+#1 {main}
+  thrown in /home2/moniel43/delivery.monielsistemas.com.br/sistema/painel/paginas/pagar/salvar.php on line 33
+[17-Jul-2025 00:10:59 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 00:23:16 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 10:16:05 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 10:16:05 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[17-Jul-2025 10:16:36 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 10:16:36 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[17-Jul-2025 10:29:08 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 10:29:08 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[17-Jul-2025 10:31:47 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 10:31:47 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[17-Jul-2025 19:17:07 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 19:17:07 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[17-Jul-2025 19:17:53 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 19:17:53 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[17-Jul-2025 20:02:04 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 20:02:19 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 20:02:19 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[17-Jul-2025 22:47:34 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 22:47:34 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[17-Jul-2025 22:47:44 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 22:48:33 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 22:48:33 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[17-Jul-2025 23:44:48 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 23:44:48 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[17-Jul-2025 23:56:15 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[17-Jul-2025 23:56:15 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 00:04:12 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 00:04:12 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 00:13:36 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 00:13:36 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 00:18:02 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 00:18:02 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 00:20:01 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 00:20:01 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 00:29:35 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 00:29:35 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 00:50:57 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 00:51:27 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 00:51:27 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 12:08:52 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 12:08:52 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 12:11:16 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 12:11:16 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 12:39:39 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 12:39:39 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 20:27:57 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 20:27:57 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 20:30:44 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 20:30:44 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 20:35:47 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 20:35:47 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 20:37:09 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 20:37:09 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 22:11:35 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 22:11:40 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 22:11:40 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[18-Jul-2025 23:15:20 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[18-Jul-2025 23:15:20 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[20-Jul-2025 08:27:58 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[20-Jul-2025 08:27:58 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[20-Jul-2025 11:50:46 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[20-Jul-2025 11:50:46 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[20-Jul-2025 11:52:36 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[20-Jul-2025 11:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[20-Jul-2025 11:53:10 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[20-Jul-2025 11:53:10 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[20-Jul-2025 13:37:50 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[20-Jul-2025 13:37:50 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[20-Jul-2025 15:11:10 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[20-Jul-2025 15:11:10 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[29-Jul-2025 01:02:35 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[29-Jul-2025 01:02:35 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[29-Jul-2025 12:46:51 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[29-Jul-2025 12:46:51 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[29-Jul-2025 12:48:40 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[29-Jul-2025 12:48:40 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[29-Jul-2025 12:51:59 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[29-Jul-2025 12:52:01 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[29-Jul-2025 12:52:01 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[29-Jul-2025 23:48:17 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[29-Jul-2025 23:48:17 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[30-Jul-2025 00:13:32 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[30-Jul-2025 00:13:32 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[30-Jul-2025 00:25:49 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[30-Jul-2025 00:25:49 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[30-Jul-2025 00:28:08 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[30-Jul-2025 00:28:08 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[31-Jul-2025 13:16:33 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[31-Jul-2025 13:16:33 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[31-Jul-2025 13:31:25 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[31-Jul-2025 13:31:25 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[02-Aug-2025 09:00:56 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[02-Aug-2025 09:18:55 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[02-Aug-2025 09:18:55 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[02-Aug-2025 09:19:47 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[02-Aug-2025 09:19:47 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[02-Aug-2025 14:12:04 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[02-Aug-2025 14:12:04 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[02-Aug-2025 14:15:19 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[02-Aug-2025 14:15:19 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[02-Aug-2025 14:21:41 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[02-Aug-2025 14:21:41 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[02-Aug-2025 14:25:30 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[02-Aug-2025 14:25:30 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[02-Aug-2025 14:26:21 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[02-Aug-2025 14:26:21 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[02-Aug-2025 14:32:52 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[02-Aug-2025 14:32:52 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[02-Aug-2025 14:36:12 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[02-Aug-2025 14:36:12 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[02-Aug-2025 21:15:29 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[02-Aug-2025 21:15:29 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[02-Aug-2025 21:22:35 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[02-Aug-2025 21:22:35 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[02-Aug-2025 21:22:41 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[03-Aug-2025 13:27:01 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[03-Aug-2025 13:27:01 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[03-Aug-2025 13:33:38 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[03-Aug-2025 13:33:38 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[03-Aug-2025 13:33:59 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[03-Aug-2025 13:36:32 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[03-Aug-2025 13:36:32 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[03-Aug-2025 13:47:26 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[03-Aug-2025 13:47:26 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[03-Aug-2025 13:48:05 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[03-Aug-2025 13:48:05 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[04-Aug-2025 20:35:38 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[04-Aug-2025 20:35:38 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[04-Aug-2025 20:56:51 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[04-Aug-2025 20:56:51 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[04-Aug-2025 21:00:29 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[04-Aug-2025 21:00:29 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[04-Aug-2025 22:50:25 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[04-Aug-2025 22:50:25 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[04-Aug-2025 22:57:19 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[04-Aug-2025 22:57:19 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[04-Aug-2025 23:01:40 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[04-Aug-2025 23:01:40 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[05-Aug-2025 13:36:05 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[05-Aug-2025 13:36:05 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[05-Aug-2025 13:36:21 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[05-Aug-2025 13:36:21 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[05-Aug-2025 13:36:36 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[05-Aug-2025 13:36:36 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
+[05-Aug-2025 13:41:48 America/Sao_Paulo] PHP Warning:  Undefined array key "frequencia" in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 15
+[05-Aug-2025 13:41:48 America/Sao_Paulo] PHP Warning:  Undefined variable $hash in /home2/codig267/public_html/delivery/sistema/painel/paginas/pagar/salvar.php on line 277
