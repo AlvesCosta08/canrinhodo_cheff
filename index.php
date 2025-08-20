@@ -60,30 +60,11 @@ $res2 = $query2->fetchAll(PDO::FETCH_ASSOC);
 $id_ab_mesa = @$res2[0]['id'];
 $_SESSION['id_ab_mesa'] = $id_ab_mesa;
 
+
 // ========================
-// LÓGICA DE EXIBIÇÃO POR HORÁRIO
+// EXIBIR TODAS AS CATEGORIAS (SEM LIMITE DE HORÁRIO)
 // ========================
-date_default_timezone_set('America/Sao_Paulo');
-
-$hora_atual = date('H:i');
-
-if ($hora_atual >= '06:30' && $hora_atual <= '10:00') {
-    $periodos_permitidos = ['dia', 'ambos'];
-} elseif ($hora_atual >= '19:00' && $hora_atual <= '22:30') {
-    $periodos_permitidos = ['noite', 'ambos'];
-} else {
-    $periodos_permitidos = [];
-}
-
-if (!empty($periodos_permitidos)) {
-    $placeholders = implode(',', array_fill(0, count($periodos_permitidos), '?'));
-    $sql = "SELECT * FROM categorias WHERE ativo = 'Sim' AND periodo IN ($placeholders) ORDER BY nome";
-    $query = $pdo->prepare($sql);
-    $query->execute($periodos_permitidos);
-} else {
-    $query = $pdo->query("SELECT * FROM categorias WHERE FALSE");
-}
-
+$query = $pdo->query("SELECT * FROM categorias WHERE ativo = 'Sim' ORDER BY nome");
 $res = $query->fetchAll(PDO::FETCH_ASSOC);
 $total_cat = count($res);
 
@@ -412,11 +393,11 @@ if ($id_mesa == "" && $sessao_balcao == "") {
     <!-- Mensagem Fora do Horário -->
     <?php if ($total_cat == 0 && $id_mesa == "" && $sessao_balcao == ""): ?>
         <div class="text-center p-4">
-            <img src="img/fechado.png" alt="Estabelecimento fechado" width="80" class="mb-3">
+            <!--<img src="img/fechado.png" alt="Estabelecimento fechado" width="80" class="mb-3">-->
             <div class="mensagem-fora-horario-mobile">
                 <h5><i class="fas fa-clock"></i> Fora do Horário</h5>
                 <p>
-                    <strong>🌅 Manhã:</strong> 06:30 - 14:00<br>
+                    <strong>🌅 Manhã:</strong> 06:30 - 10:00<br>
                     <strong>🌙 Noite:</strong> 19:00 - 22:30
                 </p>
                 <p>Volte mais tarde! Agradecemos ❤️</p>
@@ -486,10 +467,13 @@ if ($id_mesa == "" && $sessao_balcao == "") {
             <a href="<?php echo $url_instagram ?>" target="_blank">
                 <i class="fab fa-instagram"></i> @<?php echo $instagram_sistema ?>
             </a>
-            <?php if (@$mostrar_painel == "Sim"): ?>
-                <span> | </span>
-                <a href="sistema"><i class="fas fa-lock text-warning"></i> Painel</a>
-            <?php endif; ?>
+        <?php if (isset($mostrar_painel) && strtolower(trim($mostrar_painel)) === "sim"): ?>
+            <span> | </span>
+            <a href="https://codigoquatro.com.br/delivery/sistema" style="color: white;">
+                <i class="fas fa-lock text-warning"></i> Painel
+            </a>
+        <?php endif; ?>
+
         </div>
         <small>© 2025 - Todos os direitos reservados</small>
     </footer>
